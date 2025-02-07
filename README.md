@@ -19,10 +19,10 @@ Amazon Athena is used to query the transformed data stored in S3.
 Amazon QuickSight is used to create interactive dashboards and visualizations based on the Athena query results.
 
 # Technologies Used:
-AWS S3
-AWS Glue
-AWS Athena
-Amazon QuickSight
-Kaggle
+1.AWS S3
+2.AWS Glue
+3.AWS Athena
+4.Amazon QuickSight
+5.Kaggle
 
 
